@@ -59,6 +59,16 @@ main hr {
   font-size: 3rem;
 }
 
+.leftSection .btn{
+  background: purple;
+  color:white;
+  border: 2px solid white;
+  border-radius: 6px;
+  font-size: 20px;
+  cursor: pointer;
+  
+}
+
 .rightSection img {
   width: 300px;
   height: 300px;
